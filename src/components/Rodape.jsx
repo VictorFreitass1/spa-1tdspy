@@ -1,9 +1,6 @@
-export default function Rodape(){
 
+export default function Rodape() {
     return (
-      <div>
-          <h1>APP</h1>
-      </div>
+      <div>Rodape</div>
     )
-  
   }
